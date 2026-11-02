@@ -1,0 +1,5 @@
+Every CSV in this folder is fictional sample data for Helio Grill, a made-up venue.
+
+foot_traffic.csv is shaped like an hourly people-count a computer-vision counter on existing CCTV would write out (one row per day and hour, entries = people counted). This repository does not read video, connect to cameras, or run a detector.
+
+Staff names, availability, skills, and pay rates are invented. Pay rates are base rates, not award rates.

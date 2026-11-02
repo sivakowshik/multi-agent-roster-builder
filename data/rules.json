@@ -1,0 +1,17 @@
+{
+  "venue": "Helio Grill",
+  "disclaimer": "Sample house rules for this demo. Not legal advice and not an interpretation of any award, agreement, or statute.",
+  "min_shift_hours": 3,
+  "meal_break_after_hours": 5,
+  "meal_break_minutes": 30,
+  "min_rest_hours": 10,
+  "max_week_hours_cap": 40,
+  "open_hour": 11,
+  "close_hour": 21,
+  "front_entries_per_person": 28,
+  "max_front": 4,
+  "kitchen_quiet_below": 18,
+  "kitchen_second_from": 50,
+  "weekly_labour_budget": 7300.00,
+  "cost_note": "Budget is a sample weekly target for this fictional venue. Cost is base hourly rate times paid hours. No penalty rates, loadings, overtime, or super."
+}

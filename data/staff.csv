@@ -1,0 +1,11 @@
+staff_id,name,area,can_open,can_close,max_hours
+maya,Maya Patel,front,yes,yes,40
+liam,Liam Nguyen,front,no,yes,40
+sofia,Sofia Rossi,front,yes,no,30
+jonah,Jonah Blake,front,no,no,36
+priya,Priya Shah,front,no,no,38
+ethan,Ethan Cole,front,no,yes,32
+hannah,Hannah Okonkwo,kitchen,no,yes,38
+marco,Marco Silva,kitchen,no,no,32
+aisha,Aisha Rahman,kitchen,no,no,30
+ben,Ben Walsh,kitchen,no,no,34
