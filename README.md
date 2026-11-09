@@ -94,6 +94,7 @@ multi-agent-roster-builder/
 ├── run.py             # Azure OpenAI
 ├── offline_demo.py    # no credentials
 ├── requirements.txt
+├── pytest.ini         # repo root on sys.path for pytest
 ├── .env.example
 └── LICENSE
 ```
